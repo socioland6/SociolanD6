@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "2d487c8a198448c9a6b4e615f7e824f9"
+	name: "LeonardoZer0"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1766583716672L
+		6F010E22CD886969: 1766583716672L
+		0000000000000001: 1766583716672L
+		744084D7C7EA8A6C: 1766583716672L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1766583716673L
+		6F010E22CD886969: 1766583716673L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
